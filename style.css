@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 1440px;
+  color: rgb(29, 29, 29);
+  letter-spacing: 0.3px;
+  line-height: 22px;
+}
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+h1, h2 {
+  border-bottom: 1px solid rgb(218, 216, 216);
+  margin: 0;
+  padding: 20px 0 5px 0;
+}
+hr {
+  background-color:rgb(218, 216, 216);
+  border: 0;
+  height: 0.25rem;
+}
+.contacts {
+  margin: 20px 0;
+}
+.contacts p {
+  margin: 0 0 5px 0;
+}
+li {
+  margin: 0 0 5px 0;
+}
+code {
+  background-color: rgb(230, 230, 230);
+  border-radius: 2px;
+  display: inline-block;
+  padding: 1px 0;
+  margin: 0 0 2px 0;
+}
+.block-code {
+  display: block;
+}
+img {
+  display:block;
+  width: 700px;
+  height: auto;
+  margin: 0 0;
+  
+}
+.timer-image {
+  display: block;
+  width: 350px;
+  margin: 0 0;
+}
+.ecodecor {
+  display: inline-block;
+  width: 700px;
+
+}
